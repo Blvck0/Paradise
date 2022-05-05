@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:paradise/constants.dart';
+import 'package:paradise/utils/constants.dart';
 
 class contactInfo extends StatefulWidget {
   const contactInfo({Key? key}) : super(key: key);

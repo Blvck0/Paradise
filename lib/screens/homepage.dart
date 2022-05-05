@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:paradise/constants.dart';
-import 'package:paradise/profilepage.dart';
+import 'package:paradise/utils/constants.dart';
+import 'package:paradise/screens/profilepage.dart';
 import 'searchpage.dart';
-import 'transactionpage.dart';
+import '../utils/transactionpage.dart';
 import 'homescreen.dart';
 
 class homePage extends StatefulWidget {

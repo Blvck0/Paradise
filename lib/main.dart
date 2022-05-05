@@ -1,4 +1,4 @@
-import 'signuppage.dart';
+import 'utils/signuppage.dart';
 import 'package:flutter/material.dart';
 
 void main() {

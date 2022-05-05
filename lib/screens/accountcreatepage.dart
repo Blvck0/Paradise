@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:paradise/constants.dart';
-import 'package:paradise/homepage.dart';
-import 'account_button.dart';
+import 'package:paradise/utils/constants.dart';
+import 'package:paradise/screens/homepage.dart';
+import '../utils/account_button.dart';
 
 class createAccount extends StatefulWidget {
   const createAccount({Key? key}) : super(key: key);

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'account_button.dart';
-import 'constants.dart';
+import '../utils/account_button.dart';
+import '../utils/constants.dart';
 
 class bankAccountInfo extends StatefulWidget {
   const bankAccountInfo({Key? key}) : super(key: key);

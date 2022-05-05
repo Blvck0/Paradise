@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:paradise/bankaccountpage.dart';
-import 'package:paradise/constants.dart';
-import 'package:paradise/contactinfopage.dart';
-import 'package:paradise/homepage.dart';
+import 'package:paradise/screens/bankaccountpage.dart';
+import 'package:paradise/utils/constants.dart';
+import 'package:paradise/screens/contactinfopage.dart';
+import 'package:paradise/screens/homepage.dart';
 
 class profileScreen extends StatefulWidget {
   const profileScreen({Key? key}) : super(key: key);
